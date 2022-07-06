@@ -1,0 +1,34 @@
+Animal
+--------
++species: string
++age: int
+--------
++move()
++eat()
++reproduce()
+
+
+Book
+--------
++title: string
++authors: string
++pages: int
++genre: string
++year published: int
+--------
++ turnpage()
+
+
+
+Vehicle
+--------
++year: int
++make: string
++model: string
++trasnmission: string
++mpg: int
+--------
++enginestart()
++acclerate()
++brake()
++enginestop
